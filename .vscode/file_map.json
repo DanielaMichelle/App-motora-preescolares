@@ -1,0 +1,14 @@
+{
+  "index.dart": {
+    "old_identifier_name": "",
+    "new_identifier_name": "",
+    "type": "F",
+    "is_deleted": false
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false
+  }
+}

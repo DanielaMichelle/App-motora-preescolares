@@ -1,0 +1,13 @@
+{
+  "files.readonlyInclude": {
+    "**": false
+  },
+  "files.readonlyExclude": {
+    "lib/custom_code/**": false,
+    "lib/flutter_flow/custom_functions.dart": false,
+    "pubspec.yaml": false,
+    "lib/flutter_flow/function_changes.json": false,
+    ".vscode/settings.json": false
+  },
+  "dart.flutterSdkPath": "c:\\projectsff\\sdk\\ff_flutter_sdk\\flutter"
+}
