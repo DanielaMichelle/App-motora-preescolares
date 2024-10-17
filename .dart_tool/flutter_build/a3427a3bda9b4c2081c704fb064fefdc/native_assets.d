@@ -1,0 +1,1 @@
+ C:\\projectsff\\app-motora-preescolares\\.dart_tool\\flutter_build\\a3427a3bda9b4c2081c704fb064fefdc\\native_assets.yaml: 
